@@ -50,6 +50,7 @@ The most important thing to make a game is to be able to display things. For tha
 
 Libraries that are almost engines, they just don't have a fancy editor. But trust me, they are as powerful as a fully-featured engine.
 
+- [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - What powers Cocos Engine
 - [lib-gdx](libgdx.com/) - You'll likely end up using this one. Cross-platform support, amazing abstractions, first class support for everything you'll ever need when making a game. Personal favorite.
 - [ktx](https://github.com/libktx/ktx) - lib-gdx but with Kotlin. If you don't like Java or/and are concerned about performance, but still like the lib-gdx API, this one is for you
 - [korge](https://github.com/korlibs/korge) - Much like ktx. Clean API.
